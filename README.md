@@ -6,11 +6,11 @@ For more information about theme developement and structure, [click here](https:
 
 Application theme:
 
-![Screenshot](./screenshots/screenshot.png)
+![Screenshot](./screenshot.png)
 
 WebUI theme:
 
-![WebUI Screenshot](./screenshots/screenshot.webui.png)
+![WebUI Screenshot](./screenshot.webui.png)
 
 ## Install
 
